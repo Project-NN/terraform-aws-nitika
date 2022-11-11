@@ -14,3 +14,4 @@ variable "name" {
   type = string
   default = "nitika-server1"
   description = "Enter your server name"
+}
